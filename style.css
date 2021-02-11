@@ -87,3 +87,14 @@ body * {
 .button-row > .reset {
     background-color: #DF295D;
 }
+
+
+/* /////////////// */
+
+.winner {
+    color: rgb(45, 197, 31);
+}
+
+.loser {
+    color: rgb(221, 3, 3);
+}
